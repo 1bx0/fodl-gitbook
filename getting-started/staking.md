@@ -12,9 +12,8 @@ A total of 200,000,000 FODL are allocated to staking rewards over a 3-year perio
 
 LP Staking is available on:
 
-* Ethereum, Sushiswap pools: FODL-ETH and FODL-USDC
-* Polygon, Quickswap pool: FODL-WMATIC
-* BNB Chain, Pancakeswap pool: FODL-WBNB.
+* Ethereum, Sushiswap pools: [FODL-ETH](https://app.sushi.com/add/ETH/0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3) and [FODL-USDC](https://app.sushi.com/add/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3)
+* Polygon, Quickswap pool: [FODL-WMATIC](https://quickswap.exchange/#/pools?currency0=0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270\&currency1=0x5314ba045a459f63906aa7c76d9f337dcb7d6995)
 
 The LP rewards are designed to mitigate impermanent loss risk for participants and to reward liquidity providers with a bonus for locking up their capital. The intention is both to reduce price volatility by increasing the liquidity, and to minimize arbitrage opportunities across different pools and chains.
 
